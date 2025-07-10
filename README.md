@@ -1,1 +1,2 @@
-# Venkat12
+# python project 
+stone paper scissor game
